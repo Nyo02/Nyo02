@@ -5,5 +5,5 @@
 
 
 ## Interesse também em:
-<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="90" />
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10" height="10" />
           
