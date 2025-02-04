@@ -1,7 +1,7 @@
 # BEM VINDO!
 
 ## Aprendendo no momento:
-<img src="https://devicon-website.vercel.app/api/go/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/go/original-wordmark.svg"></img>
 
 
 ## Interesse também em:
